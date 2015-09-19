@@ -1,0 +1,3 @@
+program client server
+test sending file B.txt
+from server to client

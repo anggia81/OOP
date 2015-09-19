@@ -1,0 +1,9 @@
+D:\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\SGSclient.exe
+D:\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\SGSclient.pdb
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\ResolveAssemblyReference.cache
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclientTCP.csproj.GenerateResource.Cache
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.exe
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\SGSclient.pdb

@@ -1,0 +1,27 @@
+D:\TCP Chat\SGSserverTCP\Server\bin\Debug\ChatServer.exe
+D:\TCP Chat\SGSserverTCP\Server\bin\Debug\ChatServer.pdb
+D:\TCP Chat\SGSserverTCP\Server\obj\Debug\ResolveAssemblyReference.cache
+D:\TCP Chat\SGSserverTCP\Server\obj\Debug\ChatServer.ChatServerForm.resources
+D:\TCP Chat\SGSserverTCP\Server\obj\Debug\ChatServer.Properties.Resources.resources
+D:\TCP Chat\SGSserverTCP\Server\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\TCP Chat\SGSserverTCP\Server\obj\Debug\ChatServer.exe
+D:\TCP Chat\SGSserverTCP\Server\obj\Debug\ChatServer.pdb
+D:\LTI ITB\OOP\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\LTI ITB\OOP\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\LTI ITB\OOP\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\LTI ITB\OOP\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\LTI ITB\OOP\ChatServer\ChatServer\obj\Debug\ResolveAssemblyReference.cache
+D:\LTI ITB\OOP\ChatServer\ChatServer\obj\Debug\ChatServer.ChatServerForm.resources
+D:\LTI ITB\OOP\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\LTI ITB\OOP\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+D:\LTI ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\LTI ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\obj\Debug\ChatServer.ChatServerForm.resources
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\obj\Debug\ChatServer.ChatTest.resources
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache

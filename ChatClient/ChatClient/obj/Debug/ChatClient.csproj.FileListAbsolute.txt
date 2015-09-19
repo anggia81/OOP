@@ -1,0 +1,28 @@
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\ResolveAssemblyReference.cache
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\ChatClient.ChatClient.resources
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\ChatClient.LoginForm.resources
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\ChatClient.exe
+D:\TCP Chat\SGSclientTCP\SGSclient\bin\Debug\ChatClient.pdb
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\ChatClient.exe
+D:\TCP Chat\SGSclientTCP\SGSclient\obj\Debug\ChatClient.pdb
+D:\LTI ITB\OOP\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\LTI ITB\OOP\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\LTI ITB\OOP\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+D:\LTI ITB\OOP\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+D:\LTI ITB\OOP\ChatClient\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\LTI ITB\OOP\ChatClient\ChatClient\obj\Debug\ChatClient.ChatClient.resources
+D:\LTI ITB\OOP\ChatClient\ChatClient\obj\Debug\ChatClient.LoginForm.resources
+D:\LTI ITB\OOP\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\LTI ITB\OOP\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\LTI ITB\OOP\Tugas Program Chatting\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\LTI ITB\OOP\Tugas Program Chatting\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatClient\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\Anggia\Kuliah ITB\OOP\Tugas Program Chatting\ChatClient\ChatClient\obj\Debug\ChatClient.ClientTest.resources
